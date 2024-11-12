@@ -42,7 +42,6 @@
     sudo apt-get install git
     ```
    
-## Screenshots
-1. تست نصب :
-![Screenshot 1](/screenshots/1.png)
+# پوشه Screenshots
+- تصاویر مربوط به تست ابزار های نصب شده و روند پیشرفت پروژه در این پوشه قرار داده شده 
 
