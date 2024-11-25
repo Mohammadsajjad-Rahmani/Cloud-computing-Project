@@ -42,12 +42,7 @@
     sudo apt-get install git
     ```
    
-<<<<<<< HEAD
-# پوشه Screenshots
-- تصاویر مربوط به تست ابزار های نصب شده و روند پیشرفت پروژه در این پوشه قرار داده شده 
-=======
+
 ## پوشه Screenshots
 - تصاویر مربوط به تست ابزار های نصب شده و روند پیشرفت پروژه در این پوشه قرار داده شده 
-
->>>>>>> 011847c (Added Django REST Framework configuration and screenshots and configuration of env file)
-
+- E
