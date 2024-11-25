@@ -1,0 +1,23 @@
+[33mcommit 011847c370e3992b53c1ff1ffd46fc14c033ceb1[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: Mohammadsajjad <mohammadsajjadmail@gmail.com>
+Date:   Tue Nov 26 02:22:49 2024 +0330
+
+    Added Django REST Framework configuration and screenshots and configuration of env file
+
+[33mcommit fc8c8c2fe169f1d9b99f96564becb0e5136f90fd[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Mohammadsajjad <mohammadsajjadmail@gmail.com>
+Date:   Tue Nov 12 17:10:56 2024 +0330
+
+    Updated README with new information
+
+[33mcommit 280f94a7b075b8f0b96819a00825468ff9a6053c[m
+Author: Mohammadsajjad <mohammadsajjadmail@gmail.com>
+Date:   Tue Nov 12 01:18:26 2024 +0330
+
+    Update README with screenshots
+
+[33mcommit 3bdde633749f67d4b1c76b1fe891e36b6fea7aa9[m
+Author: Mohammadsajjad <mohammadsajjadmail@gmail.com>
+Date:   Tue Nov 12 00:57:47 2024 +0330
+
+    Add screenshots
